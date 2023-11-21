@@ -9,7 +9,7 @@ const containerStyle: React.CSSProperties = {
 const Header: React.FC = () => {
     return (
         <div style={containerStyle}>
-            <h2>Header</h2>
+            <h2>Header da aplicação principal</h2>
         </div>
     )
 }
